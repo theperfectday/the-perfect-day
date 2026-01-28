@@ -1281,3 +1281,48 @@ figure {
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
+
+/* Container do formulário */
+.form-inline {
+    background: #f8f9fa;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+    /* Inputs */
+    .form-inline .form-control {
+        width: 100%;
+        height: 45px;
+        border-radius: 6px;
+        border: 1px solid #ced4da;
+        font-size: 15px;
+    }
+
+    /* Espaçamento em mobile */
+    .form-inline .form-group {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    /* Botão */
+    .form-inline .btn-primary {
+        height: 45px;
+        border-radius: 6px;
+        font-weight: 600;
+        background-color: #007bff;
+        border: none;
+        transition: all 0.3s ease;
+    }
+
+        .form-inline .btn-primary:hover {
+            background-color: #0056b3;
+            transform: translateY(-1px);
+        }
+
+/* Melhor alinhamento em ecrãs pequenos */
+@media (max-width: 768px) {
+    .form-inline {
+        text-align: center;
+    }
+}
