@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contacto.html",
+              "DocumentMoniker": "C:\\Work\\contacto.html",
+              "RelativeDocumentMoniker": "contacto.html",
+              "ToolTip": "C:\\Work\\contacto.html",
+              "RelativeToolTip": "contacto.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-28T19:29:08.492Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -31,19 +44,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-28T20:15:33.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "contacto.html",
-              "DocumentMoniker": "C:\\Work\\contacto.html",
-              "RelativeDocumentMoniker": "contacto.html",
-              "ToolTip": "C:\\Work\\contacto.html",
-              "RelativeToolTip": "contacto.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-28T19:29:08.492Z",
-              "EditorCaption": ""
             }
           ]
         }
