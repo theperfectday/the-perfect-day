@@ -60,18 +60,6 @@ body.fh5co-offcanvas {
     overflow: hidden;
 }
 
-a {
-    color: #F69D9D;
-    -webkit-transition: 0.5s, ease;
-    -o-transition: 0.5s, ease;
-    transition: 0.5s, ease;
-}
-
-    a:hover {
-        text-decoration: none;
-        color: #F69D9D;
-    }
-
 p, ul, ol {
     margin-bottom: 1.5em;
     font-size: 16px;
