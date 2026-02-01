@@ -22,6 +22,20 @@ body {
   overflow-x: hidden;
 }
 
+.fh5co-cover {
+    display: flex;
+    align-items: center; /* centra verticalmente */
+    justify-content: center; /* centra horizontalmente */
+    text-align: center;
+}
+
+.fh5co-cover .container {
+        width: 100%;
+    }
+
+.fh5co-cover img {
+        margin: 0 auto; /* garante que a imagem fica centrada */
+    }
 .texto-poetico {
     line-height: 1.8;
     letter-spacing: 0.3px;
