@@ -23,9 +23,14 @@ body {
 }
 
 .hero {
-    text-shadow: 0 1px 0 rgba(255,255,255,.25), /* brilho subtil */
-    0 2px 3px rgba(0,0,0,.35), /* sombra curta */
-    0 6px 14px rgba(0,0,0,.25); /* profundidade */
+    background: linear-gradient( 180deg, #fff1b8 0%, #f2d27a 18%, #d8ad4e 42%, #b8832a 62%, #f4dd8a 82%, #a86f1c 100% );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* definição + contraste */
+    -webkit-text-stroke: 1px rgba(92, 56, 10, .65);
+    /* brilho e sombra para “saltar” do fundo */
+    text-shadow: 0 1px 0 rgba(255,255,255,.25), 0 2px 3px rgba(0,0,0,.35), 0 10px 18px rgba(0,0,0,.22);
 }
 
 .fh5co-cover {
