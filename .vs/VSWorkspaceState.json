@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\css",
-    "\\fonts",
-    "\\fonts\\bootstrap",
-    "\\fonts\\icomoon"
+    "\\images"
   ],
-  "SelectedNode": "\\about-us.html",
+  "SelectedNode": "\\css\\style.css",
   "PreviewInSolutionExplorer": false
 }
