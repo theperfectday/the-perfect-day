@@ -1294,3 +1294,11 @@ a:focus {
 #fh5co-primary-menu .fh5co-sub-menu a:focus {
     color: #e0b669 !important;
 }
+
+/* Navbar: hover/focus sempre branco */
+#fh5co-menu-wrap .sf-menu > li > a:hover,
+#fh5co-menu-wrap .sf-menu > li > a:focus,
+#fh5co-menu-wrap .sf-menu > li:hover > a,
+#fh5co-menu-wrap .sf-menu > li.sfHover > a {
+    color: #fff !important;
+}
