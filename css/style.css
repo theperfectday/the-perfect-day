@@ -953,7 +953,7 @@ figure {
 
     .btn:hover, .btn:active, .btn:focus {
         background: #393e46 !important;
-        color: #fff;
+        color: #e0b669;
         outline: none !important;
     }
 
@@ -1272,9 +1272,4 @@ figure {
     height: 100%;
     z-index: 9999;
     background: url(../images/hourglass.svg) center no-repeat #222222;
-}
-
-#fh5co-primary-menu > li > a:hover,
-#fh5co-primary-menu > li > a:focus {
-    color: #e0b669 !important;
 }
