@@ -319,7 +319,7 @@ figure {
         .sf-menu ul li:hover a,
         .sf-menu ul li.sfHover a,
         .sf-menu li.active a {
-            color: #F69D9D;
+            color: #ffffff;
         }
 
         .sf-menu ul li:hover,
@@ -404,11 +404,11 @@ figure {
 }
 
 #fh5co-logo a {
-    color: #F69D9D;
+    color: #ffffff;
 }
 
     #fh5co-logo a:hover, #fh5co-logo a:focus {
-        color: #F69D9D !important;
+        color: #ffffff !important;
     }
 
 #fh5co-menu-wrap {
@@ -550,7 +550,7 @@ figure {
 }
 
     #fh5co-primary-menu .fh5co-sub-menu a:hover {
-        color: #F69D9D !important;
+        color: #ffffff !important;
     }
 
 #fh5co-couple,
@@ -620,7 +620,7 @@ figure {
 #fh5co-couple .amp-center {
     font-size: 60px;
     margin-top: 100%;
-    color: #f69d9d;
+    color: #ffffff;
 }
 
 @media screen and (max-width: 768px) {
@@ -630,7 +630,7 @@ figure {
 }
 
 #fh5co-countdown {
-    background: #F69D9D;
+    background: #ffffff;
 }
 
     #fh5co-countdown .countdown {
@@ -757,7 +757,7 @@ figure {
     #fh5co-started .btn-block {
         height: 54px;
         border: none !important;
-        background: #F69D9D;
+        background: #ffffff;
         color: #fff;
         font-size: 16px;
         text-transform: uppercase;
@@ -880,7 +880,7 @@ figure {
         }
 
             .fh5co-blog .blog-text span.comment a i {
-                color: #F69D9D;
+                color: #ffffff;
                 padding-left: 4px;
             }
 
@@ -910,7 +910,7 @@ figure {
 
 .fh5co-social-icons > a {
     padding: 4px 10px;
-    color: #F69D9D;
+    color: #ffffff;
 }
 
     .fh5co-social-icons > a i {
@@ -923,7 +923,7 @@ figure {
     }
 
 #footer {
-    background: #F69D9D;
+    background: #ffffff;
     padding: 60px 0 40px;
 }
 
@@ -1050,7 +1050,7 @@ figure {
         }
 
             #offcanvas-menu ul li a:hover {
-                color: #F69D9D;
+                color: #ffffff;
             }
 
         #offcanvas-menu ul li > .fh5co-sub-menu {
@@ -1059,7 +1059,7 @@ figure {
         }
 
         #offcanvas-menu ul li.active > a {
-            color: #F69D9D;
+            color: #ffffff;
         }
 
     #offcanvas-menu ul .fh5co-sub-menu {
