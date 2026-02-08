@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contacto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:momentosmagicos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "contacto.html",
-              "DocumentMoniker": "C:\\Work\\contacto.html",
-              "RelativeDocumentMoniker": "contacto.html",
-              "ToolTip": "C:\\Work\\contacto.html",
-              "RelativeToolTip": "contacto.html",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAFAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-08T18:47:00.831Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Work\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAFEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-08T17:35:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "momentosmagicos.html",
+              "DocumentMoniker": "C:\\Work\\momentosmagicos.html",
+              "RelativeDocumentMoniker": "momentosmagicos.html",
+              "ToolTip": "C:\\Work\\momentosmagicos.html",
+              "RelativeToolTip": "momentosmagicos.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-08T18:50:57.611Z",
               "EditorCaption": ""
             }
           ]
