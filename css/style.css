@@ -923,7 +923,7 @@ figure {
     }
 
 #footer {
-    background: #e0b669;
+    background-image: url(images/marble.jpg);
     padding: 60px 0 40px;
 }
 
