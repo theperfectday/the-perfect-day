@@ -923,7 +923,7 @@ figure {
     }
 
 #footer {
-    background-color: #e0b669; /* fallback */
+    background-color: #e0b669;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
