@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about-us.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\propostas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:propostas.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "about-us.html",
-              "DocumentMoniker": "C:\\Work\\about-us.html",
-              "RelativeDocumentMoniker": "about-us.html",
-              "ToolTip": "C:\\Work\\about-us.html",
-              "RelativeToolTip": "about-us.html",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFMAAABFAAAAAAAAAA==",
+              "Title": "propostas.html",
+              "DocumentMoniker": "C:\\Work\\propostas.html",
+              "RelativeDocumentMoniker": "propostas.html",
+              "ToolTip": "C:\\Work\\propostas.html",
+              "RelativeToolTip": "propostas.html",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKcAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-08T18:14:46.786Z",
+              "WhenOpened": "2026-02-08T18:40:04.284Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Work\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAFgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAALMAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-08T17:35:03.153Z",
               "EditorCaption": ""
