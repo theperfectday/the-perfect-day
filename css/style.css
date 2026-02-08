@@ -1289,3 +1289,8 @@ a:focus {
 #fh5co-menu-wrap a:focus {
     color: inherit !important;
 }
+
+#fh5co-primary-menu .fh5co-sub-menu a:hover,
+#fh5co-primary-menu .fh5co-sub-menu a:focus {
+    color: #e0b669 !important;
+}
