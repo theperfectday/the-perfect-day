@@ -69,10 +69,10 @@
                                         <li style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif"><a href="escolherseoutravez.html">Escolher-se outra vez</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="gallery.html">Localizações</a></li>
                                 <li><a href="guest.html">Testemunhos</a></li>
                                 <li><a href="portfolio.html">Portfolio</a></li>
                                 <li><a href="gallery.html">Perguntas Frequentes</a></li>
+                                <li><a href="gallery.html">Localização</a></li>
                                 <li><a href="contacto.html">Contacto</a></li>
                             </ul>
                         </nav>
@@ -169,11 +169,11 @@
     <script src="dist/scripts.min.js"></script>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
-        var map = L.map('map').setView([38.6400, -9.1000], 13);
+        var map = L.map('map').setView([38.5856, -9.1050], 13);
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
         }).addTo(map);
-        L.marker([38.6400, -9.1000]).addTo(map)
+        L.marker([38.5856, -9.1050]).addTo(map)
             .bindPopup("Estamos aqui!")
             .openPopup();
     </script>
