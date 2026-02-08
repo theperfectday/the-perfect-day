@@ -1280,14 +1280,14 @@ a:focus {
     color: #e0b669;
 }
 
-/* Excluir navbar (não mudar hover lá) */
+/* Navbar: não herdar preto, ficar branco */
 #fh5co-header a:hover,
 #fh5co-header a:focus,
 #fh5co-header-section a:hover,
 #fh5co-header-section a:focus,
 #fh5co-menu-wrap a:hover,
 #fh5co-menu-wrap a:focus {
-    color: inherit !important;
+    color: #fff !important;
 }
 
 #fh5co-primary-menu .fh5co-sub-menu a:hover,
@@ -1300,5 +1300,13 @@ a:focus {
 #fh5co-menu-wrap .sf-menu > li > a:focus,
 #fh5co-menu-wrap .sf-menu > li:hover > a,
 #fh5co-menu-wrap .sf-menu > li.sfHover > a {
+    color: #fff !important;
+}
+
+/* Navbar (topo): hover/focus branco — força máxima */
+#fh5co-header-section #fh5co-primary-menu > li > a:hover,
+#fh5co-header-section #fh5co-primary-menu > li > a:focus,
+#fh5co-header-section #fh5co-primary-menu > li:hover > a,
+#fh5co-header-section #fh5co-primary-menu > li.sfHover > a {
     color: #fff !important;
 }
