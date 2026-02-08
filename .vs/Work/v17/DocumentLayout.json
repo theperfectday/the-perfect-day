@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\piqueniquesonhos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:piqueniquesonhos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\pacotecacatesouro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pacotecacatesouro.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\capituloum.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "piqueniquesonhos.html",
-              "DocumentMoniker": "C:\\Work\\piqueniquesonhos.html",
-              "RelativeDocumentMoniker": "piqueniquesonhos.html",
-              "ToolTip": "C:\\Work\\piqueniquesonhos.html",
-              "RelativeToolTip": "piqueniquesonhos.html",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFQAAAAgAAAAAAAAAA==",
+              "Title": "pacotecacatesouro.html",
+              "DocumentMoniker": "C:\\Work\\pacotecacatesouro.html",
+              "RelativeDocumentMoniker": "pacotecacatesouro.html",
+              "ToolTip": "C:\\Work\\pacotecacatesouro.html",
+              "RelativeToolTip": "pacotecacatesouro.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-08T19:00:47.253Z",
+              "WhenOpened": "2026-02-08T19:03:41.699Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "capituloum.html",
               "ToolTip": "C:\\Work\\capituloum.html",
               "RelativeToolTip": "capituloum.html",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-02-08T18:55:11.169Z",
               "EditorCaption": ""
