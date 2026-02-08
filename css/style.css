@@ -291,11 +291,11 @@ figure {
     }
 
         .sf-menu a:hover, .sf-menu a:focus {
-            color: #F69D9D !important;
+            color: #ffffff !important;
         }
 
     .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-        color: #F69D9D;
+        color: #ffffff;
     }
 
     .sf-menu li,
