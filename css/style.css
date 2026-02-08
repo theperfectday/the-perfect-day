@@ -953,7 +953,7 @@ figure {
 
     .btn:hover, .btn:active, .btn:focus {
         background: #393e46 !important;
-        color: #e0b669;
+        color: #fff;
         outline: none !important;
     }
 
@@ -1272,4 +1272,20 @@ figure {
     height: 100%;
     z-index: 9999;
     background: url(../images/hourglass.svg) center no-repeat #222222;
+}
+
+/* Hover global (fora da navbar) */
+a:hover,
+a:focus {
+    color: #e0b669;
+}
+
+/* Excluir navbar (não mudar hover lá) */
+#fh5co-header a:hover,
+#fh5co-header a:focus,
+#fh5co-header-section a:hover,
+#fh5co-header-section a:focus,
+#fh5co-menu-wrap a:hover,
+#fh5co-menu-wrap a:focus {
+    color: inherit !important;
 }
