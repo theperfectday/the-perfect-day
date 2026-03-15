@@ -174,7 +174,7 @@ figure {
 .fh5co-cover,
 .fh5co-hero {
     position: relative;
-    height: 800px;
+    height: 450px;
     width: 100%;
 }
 
@@ -210,7 +210,7 @@ figure {
 
 .fh5co-cover .display-t {
     display: table;
-    height: 800px;
+    height: 450px;
     width: 100%;
     position: relative;
     z-index: 2;
@@ -239,7 +239,7 @@ figure {
     }
 
         .fh5co-cover .display-tc h2 strong {
-            font-weight: 700;
+            font-weight: 350;
         }
 
 @media screen and (max-width: 768px) {
