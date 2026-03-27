@@ -1341,27 +1341,3 @@ a:focus {
 #fh5co-header-section #fh5co-primary-menu > li.sfHover > a {
     color: #fff !important;
 }
-
-/* Faz com que cada bloco (foto + texto) tenha a mesma altura */
-#fh5co-groom-bride .couple-wrap {
-    display: flex;
-    align-items: stretch;
-}
-
-    /* Garante que cada coluna ocupa a altura total */
-    #fh5co-groom-bride .couple-wrap .col-md-6 {
-        display: flex;
-        flex-direction: column;
-    }
-
-    /* A imagem adapta-se à altura da coluna */
-    #fh5co-groom-bride .couple-wrap img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-
-/* Espaçamento interno igual nos textos */
-#fh5co-groom-bride .couple-desc {
-    padding: 40px;
-}
