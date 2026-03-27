@@ -923,17 +923,34 @@ figure {
     }
 
 #footer {
-    background-color: #e0b669;
+    background-image: url('../images/marble.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
-    align-items: center; /* centro vertical */
-    justify-content: center; /* centro horizontal */
+    align-items: center;
+    justify-content: center;
     text-align: center;
     min-height: 400px; /* igual ao hero */
+    padding: 0; /* remover padding antigo */
 }
+.footer-logo {
+    max-width: 300px; /* controla tamanho real */
+    width: 100%;
+    height: auto;
+    margin: 0 auto 20px auto;
+    display: block;
+}
+@media screen and (max-width: 768px) {
+    #footer {
+        min-height: 600px;
+        padding: 3em 0;
+    }
 
+    .footer-logo {
+        max-width: 200px;
+    }
+}
     #footer .container {
         width: 100%;
     }
