@@ -1343,7 +1343,7 @@ a:focus {
 }
 
 .fh5co-cover {
-    height: 450px; /* aumenta ou diminui conforme quiseres */
+    height: 600px; /* aumenta ou diminui conforme quiseres */
     background-size: cover;
     background-position: center;
 }
