@@ -927,8 +927,22 @@ figure {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 60px 0 40px;
+    display: flex;
+    align-items: center; /* centro vertical */
+    justify-content: center; /* centro horizontal */
+    text-align: center;
+    min-height: 400px; /* igual ao hero */
 }
+
+    #footer .container {
+        width: 100%;
+    }
+
+    #footer img {
+        margin: 0 auto;
+        display: block;
+        max-width: 100%;
+    }
 
 .btn {
     text-transform: uppercase;
