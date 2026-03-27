@@ -1354,14 +1354,14 @@ a:focus {
         flex-direction: column;
     }
 
-/* A imagem ocupa a altura total da coluna */
-#fh5co-groom-bride img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-}
+    /* A imagem adapta-se à altura da coluna */
+    #fh5co-groom-bride .couple-wrap img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
 
-/* Espaçamento interno igual em todos os textos */
+/* Espaçamento interno igual nos textos */
 #fh5co-groom-bride .couple-desc {
     padding: 40px;
 }
